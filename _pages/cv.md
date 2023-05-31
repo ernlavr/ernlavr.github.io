@@ -11,49 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Audio Engineering, 2018, Southampton Solent University, UK
+  * Thesis: "Investigation of Human Navigation through a Virtual Environment using only Binaural Audio Cues".
+* MSc in Medialogy, 2024 (expected), Aalborg University Copenhagen, Denmark
+  * Thesis: "Role of Samplers in Diffusion-Based Generative Speech Enhancement".
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2018 - July 2021: Technical Research Employee
+  * Fraunhofer IIS. Erlangen, Germany.
+  * Duties included: XR (HTC Vive / HoloLens 1-2) development, audio evaluation, CI/CD pipelines, MPEG-I standardization activities.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2021 - Aug 2023: Student Android Developer
+  * Billetto. Copenhagen, Denmark.
+  * Duties included: feature implementation and maintenance, asynchronous programming, data analysis, REST API, software design patterns.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, Java, C++, C#, MATLAB, Kotlin.
+* Software Engineering: Git, CI/CD, Linux, Design Patterns, REST API, Unity Engine, Android Studio.
+* Machine Learning: PyTorch, Scikit-learn, NLTK, OpenCV.
+* Product Development: Firebase, Google Analytics, Google Playstore, data-driven development, project roadmap.
+* Languages: Latvian (native), English (C2), German (A2/B1).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
