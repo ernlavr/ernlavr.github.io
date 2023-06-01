@@ -15,6 +15,9 @@ Education
   * Thesis: "Investigation of Human Navigation through a Virtual Environment using only Binaural Audio Cues".
 * MSc in Medialogy, 2024 (expected), Aalborg University Copenhagen, Denmark
   * Thesis: "Role of Samplers in Diffusion-Based Generative Speech Enhancement".
+* Exchange, Fall 2022, University of Copenhagen, Denmark
+  * Fair and Transparent Machine Learning Methods
+  * Natural Language Processing
 
 Work experience
 ======
