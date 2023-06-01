@@ -1,10 +1,8 @@
 ---
 title: "Structural Analysis using Finite Element Method"
-excerpt: "Comparative study of two basic bridge models. One with Warren-type truss and one without. What is the practical implication and performance improvement that the added truss structure can deliver? <br/><img src='/images/portfolio/mpsStructAnal/withTruss_stress_persp.png'>"
+excerpt: "Comparative study of two basic bridge models. One with Warren-type truss and one without. What is the practical implication and performance improvement that the added truss structure can deliver? <br/><img src=\"/images/portfolio/mpsStructAnal/withTruss_stress_persp.png\" width=\"400\" >"
 collection: portfolio
 ---
-
-*Conducted as part of a group with Anna Horwath and Christian Neurohr*
 
 [Download the Full Paper](/files/portfolio/fullPapers/ModellingPhysicalSystems_StructuralMechanics.pdf)
 

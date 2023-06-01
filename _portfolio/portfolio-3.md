@@ -1,6 +1,6 @@
 ---
 title: "Augmented Reality Indoor Positioning and Navigation"
-excerpt: "End-to-end indoor navigation system proposal. Based on internal accelerometer data and environment mapping capabilities by Magic Leap headset. <br/><img src='/images/portfolio/arNavigation/Pictures/ClientApplication/TopVIewNavigation.png'>"
+excerpt: "End-to-end indoor navigation system proposal. Based on internal accelerometer data and environment mapping capabilities by Magic Leap headset. Uses local area network for client/authoring devices to interact with a centralized server that performs data processing and pathfinding. <br/><img src='/images/portfolio/arNavigation/Pictures/ClientApplication/TopVIewNavigation.png' width=\"400\">"
 collection: portfolio
 ---
 
