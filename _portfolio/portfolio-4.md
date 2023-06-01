@@ -4,7 +4,7 @@ excerpt: "Comparative study of two basic bridge models. One with Warren-type tru
 collection: portfolio
 ---
 
-[Download the Full Paper](/files/portfolio/fullPapers/ModellingPhysicalSystems_StructuralMechanics.pdf)
+[Download the Full Paper](/files/portfolio/fullPapers/ModellingPhysicalSystems_StructuralMechanicss.pdf)
 
 Relevant GitHub Repos:
 - [Matlab code](https://github.com/ernlavr/MPSMiniProj)
