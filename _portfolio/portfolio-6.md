@@ -5,7 +5,7 @@ The project makes use of an animal portrait dataset and performs clustering. <br
 collection: portfolio
 ---
 
-[Download the Presentation](/files/portfolio/fullPapers/SOM_Presentation_MiniProj-1.pdf)
+[Download the Presentation](/files/portfolio/fullPapers/SOM_Presentation_MiniProj.pdf)
 
 Relevant GitHub Repos:
 - [Implementation and Analysis](https://github.com/ernlavr/facialrecognition)

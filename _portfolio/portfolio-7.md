@@ -4,6 +4,7 @@ BERT-Based Textual Entailment Model"
 excerpt: "Study of adversarial attack frameworks against a fine-tuned vanilla DistilBERT model. Outlines motivation for adversarial training, as well as flaws in Universal Adversarial Trigger and TextFooler attack frameworks. <br/><img src=\"/images/portfolio/adversarialAttacks/adAttack.png\" width=\"400\" >"
 collection: portfolio
 ---
+*Conducted in a group with Rustam Abdumalikov and Hannah Clausen*
 
 [Download the Paper](/files/portfolio/fullPapers/adAttackFTML.pdf)
 

@@ -5,7 +5,7 @@ excerpt: "Implementation of HOG algorithm in C++ <br/><img src=\"/images/portfol
 collection: portfolio
 ---
 
-[Download the Full Paper](/files/portfolio/fullPapers/ImageProcessing_HOG-1.pdf)
+[Download the Full Paper](/files/portfolio/fullPapers/ImageProcessing_HOG.pdf)
 
 Relevant GitHub Repos:
 - [Implementation and Analysis](https://github.com/ernlavr/facialrecognition)
