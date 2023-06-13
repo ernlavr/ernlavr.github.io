@@ -11,7 +11,7 @@ collection: portfolio
 [Download the Full Paper](/files/portfolio/fullPapers/adEffect.pdf)
 
 Relevant GitHub Repos:
-- [Python Server](https://github.com/ernlavr/adImpact)
+- [Codebase](https://github.com/ernlavr/adImpact)
 
 # Abstract
 Indoor navigation is a topic undergoing research within robotics, but
