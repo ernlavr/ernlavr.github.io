@@ -1,6 +1,6 @@
 ---
 title: "The Effect of Personalized Music in Advertisement on Emotions and Memory Performance"
-excerpt: "How is a subject's memory performance affected when experiencing video content with and without music that is personalized? We leveraged Spotify's API for music affective features, test subjects' mood at the time of the test and their Spotify listening trends to find the best matching song and overlay it with the video content.
+excerpt: "How is a subject's memory performance affected when experiencing video content with and without music that is personalized? We used Spotify's API for music's affective features, test subjects' mood at the time of the test, and their Spotify listening trends to find the best matching song to then overlay it with the video content. We used a computer vision based framework to read test subject's mood as an additional measurement of engagement.
 <br/> Title image censored for privacy. 
 <br/><img src='/images/portfolio/musicAdImpact/EmotionsQualitative/Subject08_censored.png' width=\"400\">"
 collection: portfolio
