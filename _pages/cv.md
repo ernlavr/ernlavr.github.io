@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* Exchange, Fall 2023, IT University of Copenhagen, Denmark
+  * Advanced Natural Language Processing and Deep Learning
+  * Data Mining
 * MSc in Medialogy, 2024 (expected), Aalborg University Copenhagen, Denmark
   * Thesis: "Role of Samplers in Diffusion-Based Generative Speech Enhancement".
 * Exchange, Fall 2022, University of Copenhagen, Denmark
@@ -21,6 +24,14 @@ Education
 
 Work experience
 ======
+* Sept 2023 - Jan 2023: Teaching Assistant
+  * Aalborg University Copenhagen, Denmark.
+  * Machine Learning for Media Technology, [curriculum](https://github.com/SMC-AAU-CPH/ML-For-Beginner)
+
+* Aug 2023 - Dec 2023: Student Research Assistant
+  * Aalborg University Copenhagen, Denmark.
+  * Research project on AI-based evaluation of physiotherapy exercise execution quality by patients, using wearable sensors and computer vision.
+
 * Sept 2021 - Aug 2023: Student Android Developer
   * Billetto. Copenhagen, Denmark.
   * Duties included: feature implementation and maintenance, asynchronous programming, data analysis, REST API, software design patterns.
