@@ -11,32 +11,32 @@ redirect_from:
 
 Education
 ======
-* Exchange, Fall 2023, IT University of Copenhagen, Denmark
+* Exchange, Fall 2023, **IT University of Copenhagen**, Denmark
   * Advanced Natural Language Processing and Deep Learning
   * Data Mining
-* MSc in Medialogy, 2024 (expected), Aalborg University Copenhagen, Denmark
+* MSc in Medialogy, 2024 (expected), **Aalborg University Copenhagen**, Denmark
   * Thesis: "Role of Samplers in Diffusion-Based Generative Speech Enhancement".
-* Exchange, Fall 2022, University of Copenhagen, Denmark
+* Exchange, Fall 2022, **University of Copenhagen**, Denmark
   * Fair and Transparent Machine Learning Methods
   * Natural Language Processing
-* BSc in Audio Engineering, 2018, Southampton Solent University, UK
+* BSc in Audio Engineering, 2018, **Southampton Solent University**, UK
   * Thesis: "Investigation of Human Navigation through a Virtual Environment using only Binaural Audio Cues".
 
 Work experience
 ======
-* Sept 2023 - Jan 2023: Teaching Assistant
+* Sept 2023 - Ongoing: **Teaching Assistant**
   * Aalborg University Copenhagen, Denmark.
   * Machine Learning for Media Technology, [curriculum](https://github.com/SMC-AAU-CPH/ML-For-Beginner)
 
-* Aug 2023 - Dec 2023: Student Research Assistant
+* Aug 2023 - Ongoing: **Student Research Assistant**
   * Aalborg University Copenhagen, Denmark.
   * Research project on AI-based evaluation of physiotherapy exercise execution quality by patients, using wearable sensors and computer vision.
 
-* Sept 2021 - Aug 2023: Student Android Developer
+* Sept 2021 - Aug 2023: **Student Android Developer**
   * Billetto. Copenhagen, Denmark.
   * Duties included: feature implementation and maintenance, asynchronous programming, data analysis, REST API, software design patterns.
 
-* Sept 2018 - July 2021: Technical Research Employee
+* Sept 2018 - July 2021: **Technical Research Employee**
   * Fraunhofer IIS. Erlangen, Germany.
   * Duties included: XR (HTC Vive / HoloLens 1-2) development, audio evaluation, CI/CD pipelines, MPEG-I standardization activities.
   
