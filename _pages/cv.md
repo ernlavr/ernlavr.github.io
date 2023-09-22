@@ -43,8 +43,8 @@ Work experience
 Skills
 ======
 * Programming languages: Python, Java, C++, C#, MATLAB, Kotlin.
-* Software Engineering: Git, CI/CD, Linux, Design Patterns, REST API, Unity Engine, Android Studio.
-* Machine Learning: PyTorch, Scikit-learn, NLTK, OpenCV.
+* Software Engineering: Git, CI/CD, Unix, Design Patterns, REST API, Unity Engine, Android Studio, CMake.
+* Machine Learning: PyTorch, Scikit-learn, NLTK, OpenCV, HuggingFace, Pandas, Numpy.
 * Product Development: Firebase, Google Analytics, Google Playstore, data-driven development, project roadmap.
 * Languages: Latvian (native), English (C2), German (A2/B1).
 
