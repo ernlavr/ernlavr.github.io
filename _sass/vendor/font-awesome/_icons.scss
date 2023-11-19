@@ -998,6 +998,7 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-sort-numeric-up:before { content: fa-content($fa-var-sort-numeric-up); }
 .#{$fa-css-prefix}-sort-up:before { content: fa-content($fa-var-sort-up); }
 .#{$fa-css-prefix}-soundcloud:before { content: fa-content($fa-var-soundcloud); }
+.#{$fa-css-prefix}-huggingface:before { content: fa-content($fa-var-huggingface); }
 .#{$fa-css-prefix}-spa:before { content: fa-content($fa-var-spa); }
 .#{$fa-css-prefix}-space-shuttle:before { content: fa-content($fa-var-space-shuttle); }
 .#{$fa-css-prefix}-speakap:before { content: fa-content($fa-var-speakap); }
