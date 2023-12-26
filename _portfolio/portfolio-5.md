@@ -1,24 +1,39 @@
 ---
-title: "Implementation of Algorithm for Image Feature
-Extraction: Histogram of Oriented Gradients"
-excerpt: "Implementation of HOG algorithm in C++ <br/><img src=\"/images/portfolio/HOG/exampleHog.png\" width=\"400\" >"
+title: "Llama-2 for Abstractive Text Summarization and its Factuality"
+excerpt: "MSc thesis conducted during Spring 2023 semester. <br/><img src=\"/images/portfolio/adv_nlp/llama2.jpg\" width=\"500\" >"
 collection: portfolio
 ---
+*Conducted as part of a group with Bence Zoltan Balazs*
 
-[Download the Full Paper](/files/portfolio/fullPapers/ImageProcessing_HOG.pdf)
+[Download the Full Paper](/files/portfolio/fullPapers/advanced_nlp_abstractive_summary.pdf)
 
-Relevant GitHub Repos:
-- [Implementation and Analysis](https://github.com/ernlavr/facialrecognition)
+Relevant Links:
+- [Github](https://github.com/ernlavr/llamarizer)
+- [HuggingFace Model 🤗](https://huggingface.co/ernlavr/llama-2-7bn-xsum-lora-adapter)
+- [Weights & Biases](https://wandb.ai/ernlavr/adv_nlp2023/sweeps)
 
 
 # Abstract
-Image feature extraction is a vital pre-processing
-step for image processing tasks such as tracking, object detection
-or recognition, and image stitching. There are multiple methods
-for feature extraction such as ORB, SIFT, HOG and others.
-This contribution describes a from-scratch implementation of
-Histogram of Oriented Gradients algorithm that is quantitatively
-evaluated for performance and functionality. Quantitative tests
-suggest that the implementation suffers from bugs as the gener-
-ated feature vector has statistically significant differences when
-compared to production-grade implementation.
+Text summarization proves to be an effective
+and efficient method for swiftly conveying
+crucial information. Large Language Models
+(LLM) hold immense potential in simplifying
+this task for a diverse audience. However, existing research reveals a challenge — many LLMs
+exhibit factual inconsistencies when generating
+summary texts. In this project, we embark on
+fine-tuning a Llama2-7bn text summarization adapter
+model. Our focus is on evaluating the performance of a fine-tuned model and investigating
+how integration of Natural Language Inference
+(NLI) into the cost function can enhance factuality performance. We conduct training and
+evaluation on the XSum news summary dataset
+and employ multiple factuality consistency metrics on our final results. We find that in the
+current iteration of our models, there is no substantial difference between the base model and
+the NLI enhanced version. We propose to use
+better NLI model in the cost function and to
+train our model longer to mitigate this issue.
+Furthermore, we notice that the fine-tuned tend
+to predict parts from the source text, which is
+likely to be the reason that our model performs
+worse than the state-of-the-art models. Thus we
+propose an extra penalty term on taking entire
+sentences from the source document.

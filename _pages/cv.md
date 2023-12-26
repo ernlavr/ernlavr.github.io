@@ -15,7 +15,7 @@ Education
   * Advanced Natural Language Processing and Deep Learning
   * Data Mining
 * MSc in Medialogy, 2024 (expected), **Aalborg University Copenhagen**, Denmark
-  * Thesis: "Role of Samplers in Diffusion-Based Generative Speech Enhancement".
+  * Thesis: ["Role of Samplers in Diffusion-Based Generative Speech Enhancement".](https://ernlavr.github.io/portfolio/portfolio-2/)
 * Exchange, Fall 2022, **University of Copenhagen**, Denmark
   * Fair and Transparent Machine Learning Methods
   * Natural Language Processing
@@ -24,11 +24,11 @@ Education
 
 Work experience
 ======
-* Sept 2023 - Ongoing: **Teaching Assistant**
+* Sept 2023 - Dec 2023: **Teaching Assistant**
   * Aalborg University Copenhagen, Denmark.
   * Machine Learning for Media Technology, [curriculum](https://github.com/SMC-AAU-CPH/ML-For-Beginners)
 
-* Aug 2023 - Ongoing: **Student Research Assistant**
+* Aug 2023 - Dec 2023: **Student Research Assistant**
   * Aalborg University Copenhagen, Denmark.
   * Research project on AI-based evaluation of physiotherapy exercise execution quality by patients, using wearable sensors and computer vision.
 
