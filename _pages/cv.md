@@ -26,7 +26,7 @@ Work experience
 ======
 * Sept 2023 - Ongoing: **Teaching Assistant**
   * Aalborg University Copenhagen, Denmark.
-  * Machine Learning for Media Technology, [curriculum](https://github.com/SMC-AAU-CPH/ML-For-Beginner)
+  * Machine Learning for Media Technology, [curriculum](https://github.com/SMC-AAU-CPH/ML-For-Beginners)
 
 * Aug 2023 - Ongoing: **Student Research Assistant**
   * Aalborg University Copenhagen, Denmark.
