@@ -3,6 +3,7 @@ title: "Collection of NLP Mini Projects"
 excerpt: "Collection of small NLP mini projects conducted for learning. Includes language modeling, sequence labeling, multilingual QA and others. <br/><img src=\"/images/portfolio/nlpLabs/langModel.png\" width=\"500\" >"
 collection: portfolio
 ---
+*Conducted in a group with Rustam Abdumalikov and Hannah Clausen*
 
 [Download the Paper](/files/portfolio/fullPapers/nlpLabsPaper.pdf)
 

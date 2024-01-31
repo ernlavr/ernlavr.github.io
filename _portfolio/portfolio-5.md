@@ -3,6 +3,7 @@ title: "Llama-2 for Abstractive Text Summarization and its Factuality"
 excerpt: "MSc thesis conducted during Spring 2023 semester. <br/><img src=\"/images/portfolio/adv_nlp/llama2.jpg\" width=\"500\" >"
 collection: portfolio
 ---
+![adAttack](/images/portfolio/adv_nlp/llama2.jpg)
 *Conducted as part of a group with Bence Zoltan Balazs*
 
 [Download the Full Paper](/files/portfolio/fullPapers/advanced_nlp_abstractive_summary.pdf)

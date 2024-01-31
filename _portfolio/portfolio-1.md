@@ -4,7 +4,7 @@ BERT-Based Textual Entailment Model"
 excerpt: "Study of adversarial attack frameworks against a fine-tuned vanilla DistilBERT model. Outlines motivation for adversarial training, as well as flaws in Universal Adversarial Trigger and TextFooler attack frameworks. <br/><img src=\"/images/portfolio/adversarialAttacks/adAttack.png\" width=\"400\" >"
 collection: portfolio
 ---
-*Conducted in a group with Rustam Abdumalikov and Hannah Clausen*
+![adAttack](/images/portfolio/adversarialAttacks/adAttack.png)
 
 [Download the Paper](/files/portfolio/fullPapers/adAttackFTML.pdf)
 
@@ -18,7 +18,7 @@ results although when impaired through adversarial attacks, they can quickly cru
 work shows the effects of two fundamentally
 different adversarial attack frameworks namely
 Universal Adversarial Triggers(Wallace et al.,
-2019) and TextFooler(Jin et al., 2019), and their
+1)    and TextFooler(Jin et al., 2019), and their
 effects on DestilBERT model fine-tuned on
 Fever dataset for sequence classification problem. The result shows that both attacks are
 efficient and can make the model virtually unusable as the predictions are heavily skewed.
