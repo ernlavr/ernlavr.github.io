@@ -24,6 +24,14 @@ Education
 
 Work experience
 ======
+* Sept 2024 - Sept 2027: **PhD Fellow**
+  * Aalborg University Copenhagen, Denmark.
+  * Factual and Explainable Language Modeling through leveraging LLMs and knowledge graphs.
+
+* February 2024 - July 2024: **Research Assistant**
+  * Aalborg University Copenhagen, Denmark.
+  * Cross-lingual transfer learning for extremely low resource languages using adapter networks.
+
 * Sept 2023 - Dec 2023: **Teaching Assistant**
   * Aalborg University Copenhagen, Denmark.
   * Machine Learning for Media Technology, [curriculum](https://github.com/SMC-AAU-CPH/ML-For-Beginners)

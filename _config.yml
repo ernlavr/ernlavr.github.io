@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ernests Lavrinovics"
   avatar           : "portrait.jpg"
-  bio              : "MSc Medialogy student in Aalborg University Copenhagen with background in audio engineering. Developer within VR/AR, Android and research. Experienced with multimedia processing and AI for images and natural language."
+  bio              : "NLP Research Assistant at Aalborg University Copenhagen, starting a PhD in September of 2024. Primary research interests within LLM factuality, multilinguality, knowledge graphs and parameter-efficient fine tuning. Besides NLP, I am also curious about data mining, computer vision and AI for 3D graphics. I am an MSc Medialogy graduate from Aalborg University and BSc in Audio Engineering from Southampton Solent University."
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=SR-WcVYAAAAJ&hl=en
   huggingface      : ernlavr
   email            : "ernestslavrinovics@gmail.com"
   researchgate     :
