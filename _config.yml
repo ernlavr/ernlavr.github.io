@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ernests Lavrinovics"
   avatar           : "portrait.jpg"
-  bio              : "NLP Research Assistant at Aalborg University Copenhagen, starting a PhD in September of 2024. Primary research interests within LLM factuality, multilinguality, knowledge graphs and parameter-efficient fine tuning."
+  bio              : "PhD Fellow in NLP at Aalborg University Copenhagen from September 2024. Primary research interests within LLM factuality, multilinguality, knowledge graphs and parameter-efficient fine tuning."
   #  Besides NLP, I am also curious about data mining, computer vision and AI for 3D graphics. I am an MSc Medialogy graduate from Aalborg University and BSc in Audio Engineering from Southampton Solent University."
   location         : "Copenhagen, Denmark"
   employer         :
