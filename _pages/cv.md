@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
+* MSc in Medialogy, 2024, **Aalborg University Copenhagen**, Denmark
+  * Thesis: ["Role of Samplers in Diffusion-Based Generative Speech Enhancement".](https://ernlavr.github.io/portfolio/portfolio-2/)
 * Exchange, Fall 2023, **IT University of Copenhagen**, Denmark
   * Advanced Natural Language Processing and Deep Learning
   * Data Mining
-* MSc in Medialogy, 2024 (expected), **Aalborg University Copenhagen**, Denmark
-  * Thesis: ["Role of Samplers in Diffusion-Based Generative Speech Enhancement".](https://ernlavr.github.io/portfolio/portfolio-2/)
 * Exchange, Fall 2022, **University of Copenhagen**, Denmark
   * Fair and Transparent Machine Learning Methods
   * Natural Language Processing
